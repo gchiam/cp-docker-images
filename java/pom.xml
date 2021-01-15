@@ -40,7 +40,7 @@
         <kafka.version>0.10.2.2-SNAPSHOT</kafka.version>
         <kafka.scala.version>2.11</kafka.scala.version>
         <assertj.version>2.2.0</assertj.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <apacheda.version>1.0.0-M33</apacheda.version>
         <apacheds.version>2.0.0-M21</apacheds.version>
         <bcpkix.version>1.54</bcpkix.version>
